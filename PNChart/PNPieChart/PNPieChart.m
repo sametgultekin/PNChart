@@ -10,7 +10,7 @@
 
 @interface PNPieChart()
 
-@property (nonatomic, readwrite) NSArray	*items;
+//@property (nonatomic, readwrite) NSArray	*items;
 @property (nonatomic) CGFloat total;
 @property (nonatomic) CGFloat currentTotal;
 
